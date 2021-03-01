@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miesrock.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-03-01T09:21:46.281Z</updated>
+    <updated>2021-03-01T09:23:21.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miesrock.github.io/"/>
     <link rel="self" href="https://miesrock.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://miesrock.github.io/images/avatar.png</logo>
     <icon>https://miesrock.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[开发计划]]></title>
+        <id>https://miesrock.github.io/post/kai-fa-ji-hua/</id>
+        <link href="https://miesrock.github.io/post/kai-fa-ji-hua/">
+        </link>
+        <updated>2021-03-01T09:21:57.000Z</updated>
+        <content type="html"><![CDATA[<pre><code class="language-mermaid">gantt
+    title 工作计划
+    dateFormat  YYYY-MM-DD
+    section 游戏开发
+    基本玩法           :a1, 2021-03-01, 5d
+    UI美术     :after a1  , 5d
+    section 美术
+    UI      :2021-03-01  , 7d
+    角色      : 7d
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://miesrock.github.io/post/hello-gridea/</id>
